@@ -1,0 +1,171 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: ;
+}
+
+h1{
+  margin-top: 50px;
+  font-family: 'Charmonman', cursive;
+  font-size:2.5rem;
+}
+
+
+h2{
+  font-size: 2rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+
+.เขา{
+  top: 300px;
+position: absolute;
+left: 460px;
+}
+
+.top11-cloud{
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: 1px;
+}
+
+.top2-cloud{
+   display: inline-block;
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.top3-cloud{
+ display: inline-block;
+  position: absolute;
+  right: 190px;
+  top: 500px;
+
+}
+
+.ตาราง{
+  position: relative;
+  left: 170px;
+  top: 80px;
+}
+
+.ตาราง1{
+  position: absolute;
+  width: 100%;
+  top: 135px;
+  left: 900px;
+}
+
+.top-container11{
+  position: relative;
+  padding-top:100px;
+  background-image: linear-gradient(#0582ca,#7895B2,#ade8f4,#7895B2);
+  height:650px;
+}
+
+.top-container12{
+  position: relative;
+  height:500px;
+
+}
+
+
+#hr1{
+  border-style: none;
+    border-top-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 100%
+}
+
+#hr2{
+  border-style: none;
+    border-top-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 100%
+}
+
+#as{
+  text-shadow: 5px 5px 5px #FF0000;
+  margin: 0px;
+  padding: 30px;
+}
+
+
+.กาลรัง{
+  top: 260px;
+  position: absolute;
+  left: 530px;
+}
+
+.รูปหลัก{
+  position: absolute;
+  left: 10px;
+  top: 50px;
+}
+
+.contact-me{
+  background-color: #000000;
+  text-align: left;
+  padding:  30px;
+  color: #FFFFFF;
+}
+.top-container2{
+ position:relative;
+    background-image: linear-gradient(#0096c7,#0582ca,#0582ca,#003554);
+ height:450px;
+}
+
+.สกิล{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbFBc9v9fPNJosmrbLr2g7cf6K_mLGL1hmA&usqp=CAU");
+  font-family:fantasy;
+    text-shadow: 5px 5px 5px #FF0000;
+}
+
+.ฉลาม{
+  position: absolute;
+  right: :1px;
+  top: 50px;
+  padding: 0px;
+  top: 295px;
+  margin-left: 405px;
+}
+
+.top12{
+  display: inline-block;
+   position: absolute;
+   left: 220px;
+   top: 500px;
+}
+
+.top-cloud{
+  display: inline-block;
+  position: absolute;
+  right: 45px;
+}
+
+.gradiant-bg{
+font-family: 'Charmonman', cursive;
+  font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient( 45deg, #cc5803, #e2711d, #ff9505, #ffc971);
+  background-size: 30%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: gradient 7s infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 70%;
+  }
+}
